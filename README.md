@@ -1,56 +1,45 @@
 # d4rkNinja
 
-Building **security-first AI developer tools** for real-world workflows.
+Building security-first infrastructure for AI-assisted developer workflows.
 
----
+## Focus
 
-## ⚡ Focus
+- dependency trust and verification
+- secure package installation flows
+- CLI tooling for modern development environments
 
-* AI-assisted development safety
-* Dependency trust & verification
-* CLI-first developer workflows
-
----
-
-## 🧰 Featured Work
+## Featured Work
 
 ### INFYNON CLI
 
-Security-aware package installer for modern development.
-Stops blind installs. Surfaces hidden risks before execution.
+INFYNON is a security-aware package installation workflow built for modern development.
 
-→ https://cli.infynon.com
+As dependency decisions increasingly come from automation, generated code, and AI-assisted tooling, installation has become a trust boundary. INFYNON brings inspection, security checks, and execution awareness into that boundary so developers can understand what is being introduced before it reaches their environment.
 
----
+Website: https://cli.infynon.com
 
 ### Code Guardian
 
-Control layer for AI-driven dependency installs.
-Ensures what gets installed is actually safe and intentional.
+Code Guardian adds control to AI-driven dependency installation.
 
----
+It is designed for workflows where tools can suggest, generate, or attempt to install packages faster than teams can review them manually. The goal is simple: make dependency execution more intentional, inspectable, and safe.
 
-## 🧠 Current Build
+## Current Work
 
-* Expanding INFYNON ecosystem
-* Security layers for AI-generated workflows
-* CLI tooling for reproducible API + dev flows
+- expanding the INFYNON ecosystem
+- building safer execution patterns for AI-generated development flows
+- creating CLI-first tooling for reproducible developer workflows
 
----
+## Stack
 
-## 🛠 Stack
+Python, Node.js, CLI, security tooling, AI workflow infrastructure
 
-Python • Node.js • CLI • Security • AI Workflows
+## Engineering View
 
----
+AI can help write code.
 
-## 🧭 Philosophy
+It should not make unreviewed execution decisions on your behalf.
 
-AI can write your code.
-It shouldn’t decide what runs on your machine.
+## Tagline
 
----
-
-## ⚠️ Tagline
-
-**"Don’t trust the install. Verify the intent."**
+**Security starts before the package is installed.**
