@@ -1,16 +1,56 @@
-## Hi there 👋
+# d4rkNinja
 
-<!--
-**d4rkNinja/d4rkNinja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building **security-first AI developer tools** for real-world workflows.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Focus
+
+* AI-assisted development safety
+* Dependency trust & verification
+* CLI-first developer workflows
+
+---
+
+## 🧰 Featured Work
+
+### INFYNON CLI
+
+Security-aware package installer for modern development.
+Stops blind installs. Surfaces hidden risks before execution.
+
+→ https://cli.infynon.com
+
+---
+
+### Code Guardian
+
+Control layer for AI-driven dependency installs.
+Ensures what gets installed is actually safe and intentional.
+
+---
+
+## 🧠 Current Build
+
+* Expanding INFYNON ecosystem
+* Security layers for AI-generated workflows
+* CLI tooling for reproducible API + dev flows
+
+---
+
+## 🛠 Stack
+
+Python • Node.js • CLI • Security • AI Workflows
+
+---
+
+## 🧭 Philosophy
+
+AI can write your code.
+It shouldn’t decide what runs on your machine.
+
+---
+
+## ⚠️ Tagline
+
+**"Don’t trust the install. Verify the intent."**
