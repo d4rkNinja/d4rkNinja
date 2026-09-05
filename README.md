@@ -4,7 +4,7 @@
 
 I build CLI-first tooling for developers who want more control over what enters their environment.
 
-As AI-assisted coding, automation, and generated workflows become more common, dependency installation is no longer just a convenience step — it is a trust boundary. My work focuses on making that boundary more visible, intentional, and secure.
+As AI-assisted coding, automation, and generated workflows become more common, dependency installation is no longer just a convenience step it is a trust boundary. My work focuses on making that boundary more visible, intentional, and secure.
 
 ## Focus
 
